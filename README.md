@@ -19,8 +19,8 @@
 
 | Question | Expected Answer |
 | --- | --- |
-| Ai là người thiết kế ra dinh độc lập ?	 | wiki/George_Washington |
-| Tổng thống đầu tiên của Mỹ là ai ? | wiki/Ngô_Viết_Thụ |
+| Ai là người thiết kế ra dinh độc lập ?	 | wiki/Ngô_Viết_Thụ |
+| Tổng thống đầu tiên của Mỹ là ai ? | wiki/George_Washington |
 | Nhà thơ Xuân Quỳnh sinh năm bao nhiêu ? | năm 1942 |
 | Đại Việt sử ký toàn thư của Ngô Sĩ Liên năm 1479 gồm bao nhiêu quyển | 15 | 
 | Nước nào vô địch World Cup 2026	| null |	
